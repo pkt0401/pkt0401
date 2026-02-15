@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/pkt0401"><img src="https://img.shields.io/badge/GitHub-pkt0401-181717?style=flat-square&logo=github" alt="GitHub"/></a>
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkt0401&count_bg=%231a6dd4&title_bg=%230d1117&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="Hits"/></a>
 </p>
 
 ---
