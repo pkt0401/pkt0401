@@ -17,7 +17,7 @@
 |  |  |
 |:---|:---|
 | 🔬 **Education** | B.S. in Japanese Literature, Chung-Ang University — **GPA 4.15/4.5, 🏅** |
-| 🤖 **Current** | M.S. in Artificial Intelligence, Chung-Ang University — **GPA 4.14/4.5** |
+| 🤖 **Graduate** | M.S. in Artificial Intelligence, Chung-Ang University — **GPA 4.14/4.5** |
 | 🌐 **Languages** | 🇰🇷 Korean (Native) · 🇯🇵 Japanese (**JLPT N1**) |
 | 📊 **Certification** | **빅데이터분석기사** (Big Data Analytics Engineer) |
 
