@@ -144,7 +144,7 @@
 
 <p align="center">
   <a href="pkt0401@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[https://scholar.google.com/](https://scholar.google.co.kr/citations?hl=ko&view_op=list_works&gmla=AF9nlQulCl8GaEhPL5zrxjFpfRp95BVY3Di-wAQr3QDP6H93Yyoc6o640RHwevhzkyr9AEMnKND9KcmBqSHnKvWo9hu2XIT-wYodt3_w-tYdL6hRVpCG81mIr7ZUHOI&user=bmhQENoAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
+  <a href="https://scholar.google.co.kr/citations?hl=ko&view_op=list_works&gmla=AF9nlQulCl8GaEhPL5zrxjFpfRp95BVY3Di-wAQr3QDP6H93Yyoc6o640RHwevhzkyr9AEMnKND9KcmBqSHnKvWo9hu2XIT-wYodt3_w-tYdL6hRVpCG81mIr7ZUHOI&user=bmhQENoAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
 </p>
 
 <br/>
