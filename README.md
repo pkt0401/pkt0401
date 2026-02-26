@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/pkt0401"><img src="https://img.shields.io/badge/GitHub-pkt0401-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
+  <a href="[https://scholar.google.com/](https://scholar.google.co.kr/citations?hl=ko&view_op=list_works&gmla=AF9nlQulCl8GaEhPL5zrxjFpfRp95BVY3Di-wAQr3QDP6H93Yyoc6o640RHwevhzkyr9AEMnKND9KcmBqSHnKvWo9hu2XIT-wYodt3_w-tYdL6hRVpCG81mIr7ZUHOI&user=bmhQENoAAAAJ)"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
 </p>
 
 ---
@@ -143,9 +143,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
+  <a href="pkt0401@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[https://scholar.google.com/](https://scholar.google.co.kr/citations?hl=ko&view_op=list_works&gmla=AF9nlQulCl8GaEhPL5zrxjFpfRp95BVY3Di-wAQr3QDP6H93Yyoc6o640RHwevhzkyr9AEMnKND9KcmBqSHnKvWo9hu2XIT-wYodt3_w-tYdL6hRVpCG81mIr7ZUHOI&user=bmhQENoAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
 </p>
 
 <br/>
