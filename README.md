@@ -18,9 +18,16 @@
 | 🔬 **Education** | B.S. in Japanese Literature, Chung-Ang University — **GPA 4.15/4.5, 🏅** |
 | 🤖 **Graduate** | M.S. in Artificial Intelligence, Chung-Ang University — **GPA 4.14/4.5** |
 | 🌐 **Languages** | 🇰🇷 Korean (Native) · 🇯🇵 Japanese (**JLPT N1**) |
-| 📊 **Certification** | **빅데이터분석기사** (Big Data Analytics Engineer) |
+| 📊 **Certification** | **빅데이터분석기사** (Big Data Analytics Engineer) · **ISTQB** (CTFL) <br/> **AFPK** (Associate Financial Planner) · **증권투자권유대행인** (Securities Investment Advisor) |
 
 ---
+## 💻 Corporate Experience
+ 
+|  | Company | Period | Role |
+|:---|:---|:---|:---|
+| 🏢 | **SK AX** | 2026.01 – | AI Developer |
+| 🏢 | **LG Hitachi** | 2022.02 – 2023.07 | QA |
+
 
 ## 🚀 Research & Publications
 
@@ -29,12 +36,11 @@
   <img src="https://img.shields.io/badge/🏆_ACL_2025-Main_Conference-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
-### 📌 Representative Works
-
-- ◆ **Cross-Lingual Summarization** for Low-Resource Languages
-- ◆ **Dynamic Label Name Refinement** for Few-Shot Dialogue Intent Classification
+## 📌 Representative Works
+ 
+- ◆ **Dynamic Label Name Refinement for Few-Shot Dialogue Intent Classification** — *ACL 2025 Main* — *w/ LG AI Research*
+- ◆ **Cross-Lingual Summarization** for Low-Resource Languages 
 - ◆ **Semantic Retrieval-based** Out-of-Scope Detection
-
 ---
 
 ## 💼 Professional Experience
