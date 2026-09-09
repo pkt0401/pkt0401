@@ -19,7 +19,7 @@
 | 🤖 **Graduate** | M.S. in Artificial Intelligence, Chung-Ang University — **GPA 4.14/4.5** |
 | 🌐 **Languages** | 🇰🇷 Korean (Native) · 🇯🇵 Japanese (**JLPT N1**) |
 | 📊 **Certification** | **빅데이터분석기사** (Big Data Analytics Engineer) · **ISTQB** (CTFL) <br/> **AFPK** (Associate Financial Planner) · **증권투자권유대행인** (Securities Investment Advisor) |
-
+| 🧠 **Membership** | Member of **Mensa Korea** |
 ---
 ## 💻 Corporate Experience
  
